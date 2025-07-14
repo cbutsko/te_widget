@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+ipywidgets~=7.7      # Voilà 0.5.x uses ipywidgets-7
+voila
