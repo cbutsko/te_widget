@@ -1,6 +1,7 @@
 {
   "VoilaConfiguration": {
     "show_tracebacks": true,
-    "debug": true
+    "debug": true,
+    "file_whitelist": ["temporal_shift_checker.py"]
   }
 }
