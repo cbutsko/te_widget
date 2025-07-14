@@ -4,7 +4,6 @@ from typing import Literal, Optional, Union
 import numpy as np
 import pandas as pd
 import requests
-from loguru import logger
 
 MIN_EDGE_BUFFER = 2
 NUM_TIMESTEPS = 12

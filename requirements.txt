@@ -1,8 +1,6 @@
 numpy
 pandas
 matplotlib
-# ipywidgets==7.7.5          # Voilà 0.5 needs widgets-7
-ipywidgets==8.1.2 
-# widgetsnbextension~=3.6.4   # 3-series that matches widgets-7
+ipywidgets==7.7.5
+widgetsnbextension==3.6.5
 voila==0.5.5
-loguru
