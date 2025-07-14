@@ -1,6 +1,7 @@
 numpy
 pandas
 matplotlib
-ipywidgets>=7.7,<8
-voila
+ipywidgets==7.7.5          # ← 7-series – works in Voila
+widgetsnbextension==4.0.9   # extension that 7.x widgets rely on
+voila==0.5.5                # the current stable Voila
 loguru
